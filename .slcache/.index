@@ -3903,3 +3903,6 @@ n:1831:sl/org/objectweb/asm/tree/TryCatchBlockNode
 n:1090:sl/org/objectweb/asm/tree/JumpInsnNode
 n:772:sl/org/objectweb/asm/tree/IntInsnNode
 n:900:sl/org/objectweb/asm/tree/LineNumberNode
+n:1489:org/apache/commons/logging/Log$debug$0
+n:2302:org/codehaus/groovy/grails/project/compiler/GrailsProjectWatcher$2
+n:375:org/codehaus/groovy/grails/project/compiler/GrailsProjectWatcher$ClassUpdate
